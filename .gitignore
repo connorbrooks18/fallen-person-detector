@@ -1,0 +1,6 @@
+./runs/detect/*
+runs/detect/
+data/*
+FPDS_info/*
+*.pt
+yolo_dataset/*
