@@ -19,9 +19,9 @@ You have to download the test, train, and valid datasets and move them into a 'd
 
 | Evaluation  | Precision  |  Recall  |
 |---|---|---|
-| Before training/validation set  |  0.546 | 0.819|
-| After training/validation set  | 0.813  | 0.717|
-|  After training/test set | 0.793  |   0.740|
+| Baseline (before fine-tuning)  |  0.546 | 0.819|
+| Validation set (after fine-tuning)  | 0.813  | 0.717|
+|  Test set (after fine-tuning) | 0.793  |   0.740|
 
 ![](./val_batch2_labels.jpg)
 
